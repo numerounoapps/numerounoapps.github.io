@@ -673,7 +673,7 @@ a:hover {
   background-color: #000;
   bottom: 0;
   left: 0;
-  opacity: .5;
+  opacity: .7;
   position: absolute;
   right: 0;
   top: 0;
@@ -1762,7 +1762,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qRRIRGPbMq {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/bacgrnd.png");
 }
 .cid-qRRIRHB6LW {
   padding-top: 60px;
