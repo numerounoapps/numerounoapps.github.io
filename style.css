@@ -4,6 +4,7 @@
   text-align: center;
   width: 100%;
   font-family: sans-serif;
+  color: white;
   background-image:url(bacgrnd.png);
 
 }
@@ -12,12 +13,12 @@
 }
 .nav {
 
-  background-color: #777777;
   width: 100%;
   flex: 1;
   text-align: left;
   height: 800px;
   padding:10px;
+  color: white;
 }
 
 .main {
@@ -27,6 +28,8 @@
     width: 1000px;
     height:60px;
     text-align: justify;
+    color: white;
+
 
 }
 
