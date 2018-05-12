@@ -4,7 +4,6 @@
   text-align: center;
   width: 100%;
   font-family: sans-serif;
-  background: #999999;
   background-image:url(bacgrnd.png);
 
 }
@@ -23,7 +22,6 @@
 
 .main {
 
-    background: #999999;
     margin: 400px 60px;
     font-size:1.0rem;
     width: 1000px;
